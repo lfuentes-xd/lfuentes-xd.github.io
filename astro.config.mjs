@@ -14,4 +14,6 @@ export default defineConfig({
   },
   output: "server",
   adapter: vercel(),
+  site:'https://lfuentes-xd.github.io',
+  base:'my repo',
 });
